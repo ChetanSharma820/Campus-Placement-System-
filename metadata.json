@@ -1,0 +1,7 @@
+{
+  "name": "Campus Connect Pro",
+  "description": "A premium College Placement Management System featuring Student, TPO Admin, and Super Manager portals with glassmorphism UI and real-time analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
